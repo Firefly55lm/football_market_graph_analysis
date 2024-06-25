@@ -6,7 +6,7 @@ The same information is synthesized and exhibited in english in the file POSTER.
 We also provide in this Readme an overview of the most important points.
 
 ### RESEARCH QUESTIONS
-We aime to answer the following reserch questions:
+We aim to answer the following reserch questions:
 - What are the main relationships between the teams of the 7 major European leagues in terms of the sports market?
 - What are the main relationships between football clubs and agents in terms of the sports market?
 - What are the relationships between the world's football leagues in terms of player transfers?
@@ -37,9 +37,23 @@ We syntesize the most interesting results:
 - There is not a consistent relationship between capital gain and performance.
 
 Here a few plots about the above results:
-![capital_gain_network]
-![communities]
-![agents]
-![nations]
-![cagliari_performances]
-![regression]
+
+_Most central nodes by capital gain_
+![capital_gain_network](https://github.com/Firefly55lm/football_market_graph_analysis/blob/9c84211e0b81825bcc81325b180eb1eb53732574/pictures/graph_network.png)
+
+_Communities 0 (Italy) and 3 (Spain, Portugal, France)_
+![community_0](https://github.com/Firefly55lm/football_market_graph_analysis/blob/9c84211e0b81825bcc81325b180eb1eb53732574/pictures/community_0.png)
+![community_3](https://github.com/Firefly55lm/football_market_graph_analysis/blob/9c84211e0b81825bcc81325b180eb1eb53732574/pictures/community_3.png)
+
+_Network with agents_
+![agents](https://github.com/Firefly55lm/football_market_graph_analysis/blob/9c84211e0b81825bcc81325b180eb1eb53732574/pictures/agents_graph_network.png)
+
+_Leagues' network (in transactions and out transactions)_
+![leagues_in](https://github.com/Firefly55lm/football_market_graph_analysis/blob/9c84211e0b81825bcc81325b180eb1eb53732574/pictures/leagues_in.png)
+![leagues_out](https://github.com/Firefly55lm/football_market_graph_analysis/blob/9c84211e0b81825bcc81325b180eb1eb53732574/pictures/leagues_out.png)
+
+_Cagliari Calcio performance and gain_
+![cagliari_performances](https://github.com/Firefly55lm/football_market_graph_analysis/blob/9c84211e0b81825bcc81325b180eb1eb53732574/pictures/cagliari_gain_performance.png)
+
+_Performance-Gain regression models_
+![regression](https://github.com/Firefly55lm/football_market_graph_analysis/blob/9c84211e0b81825bcc81325b180eb1eb53732574/pictures/regressions.png)
