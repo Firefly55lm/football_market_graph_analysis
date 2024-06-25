@@ -5,7 +5,7 @@ most important actors in the capital gain generation and teams communities. Ever
 The same information is synthesized and exhibited in english in the file _POSTER.pdf_.
 We also provide in this Readme an overview of the most important points.  
 
-## RESEARCH QUESTIONS
+## RESEARCH QUESTIONS 
 We aim to answer the following reserch questions:
 - What are the main relationships between the teams of the 7 major European leagues in terms of the sports market?
 - What are the main relationships between football clubs and agents in terms of the sports market?
