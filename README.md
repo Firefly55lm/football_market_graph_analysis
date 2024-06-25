@@ -16,7 +16,7 @@ We aim to answer the following reserch questions:
 The dataset are created with dedicated web scrapers available in the repository's Jupyter notebooks and collected from the website [transfermarkt](https://www.transfermarkt.com/).
 In particular, the main scraper (scraper.ipynb) is an improvement of [this](https://github.com/d2ski/football-transfers-data/tree/main) software.
 We provide 4 datasets in csv format:
-- **transfers_complete.csv**: every transaction from 2009 summer session and 2024 winter session, related to the main 7 european football leaues (Premier League, Serie A, LaLiga, Ligue 1, Bundesliga, Eredivisie, Liga Portugal);
+- **transfers_complete.csv**: every transaction from 2009 summer session and 2024 winter session, related to the main 7 european football leagues (Premier League, Serie A, LaLiga, Ligue 1, Bundesliga, Eredivisie, Liga Portugal);
 - **transfers_with_agents.csv**: transfers_complete with the agent agency of the footballer (when available);
 - **capital_gains.csv**: capital gains calculated as difference between the price of sale and the price of purchase (when available) for the same player and the same team;
 - **champ_performances_with_metrics.csv**: team performances for every season in the considered temporal interval.
@@ -29,7 +29,7 @@ The analysis is carried on with the following techniques:
 - **Metrics**: simultaneously with the graph and communities analysis, we provied dedicated metrics to describe the main characteristics of the networks. We developed a dedicate metric to evaluate the teams' performances (check the report for details).
 
 ## RESULTS
-We syntesize the most interesting results:
+We synthesize the most interesting results:
 - The most central teams in terms of capital gain are Chelsea, Roma and Juventus. The biggest ones (capital gain total amount) are Benfica and Ajax.
 - We identified 5 communities, each one involving a specific teams' nationality, except for the most heterogeneous community 3.
 - The main agents' agencies are "Wasserman", "CAA Stellar" and "Unique Sports Group". There is a huge amount of free agents, because of the unavailable data.
