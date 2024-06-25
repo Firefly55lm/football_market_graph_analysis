@@ -1,8 +1,8 @@
 # GRAPH-BASED FOOTBALL MARKET ANALYSIS
 The following project contains a graph-based analysis of the football's transactions market.
 The main goal is to inferee the relationships in the football's transfer market, in terms of most central teams in the networks,
-most important actors in the capital gain generation and teams communities. Every further detail is provided in the file REPORT.pdf (italian).
-The same information is synthesized and exhibited in english in the file POSTER.pdf.
+most important actors in the capital gain generation and teams communities. Every further detail is provided in the file _REPORT.pdf_ (italian).
+The same information is synthesized and exhibited in english in the file _POSTER.pdf_.
 We also provide in this Readme an overview of the most important points.
 
 ## RESEARCH QUESTIONS
